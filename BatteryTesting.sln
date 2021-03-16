@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryTesting", "BatteryTesting\BatteryTesting.csproj", "{FA86184A-D57E-492C-A7A7-4D1EDD66F021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA86184A-D57E-492C-A7A7-4D1EDD66F021}.Debug|x64.ActiveCfg = Debug|x64
+		{FA86184A-D57E-492C-A7A7-4D1EDD66F021}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06DC5A67-956C-462C-BB7E-CB1879BE03D5}
+	EndGlobalSection
+EndGlobal
